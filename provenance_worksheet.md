@@ -29,7 +29,7 @@ D:<br>
 5) Record text from any labels/markings on verso (attach photographs):
 
 
-================================
+===
 
 ###Purchase History
 
@@ -56,12 +56,21 @@ D:<br>
 <br><br>
 
 
-
-================================
+===
 ###Documentation History
-1)
+1) List all known exhibitions (_tip: start with the earliest known exhibition_):<br>
+Exhibition Dates:<br>
+Exhibition Title:<br>
+Venue(s):<br>
+Catalogue number, if known:<br>
+<br><br><br><br>
 
-2) Has this work been in any publications? List:
+
+
+2) List all known publications mentioning or featuring this work (_tip: start with the earliest known reference_):
+
+
+====
 
 
 
