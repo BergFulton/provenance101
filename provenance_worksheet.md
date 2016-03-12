@@ -27,6 +27,7 @@ D:<br>
 <br><br>
 
 5) Record text from any labels/markings on verso (attach photographs):
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 ===
@@ -53,7 +54,7 @@ D:<br>
 
 
 4e) Did you use an agent for this purchase? If yes, list:
-<br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 ===
@@ -72,7 +73,14 @@ Catalogue number, if known:<br>
 
 ====
 
+###Timeline
+Build a timeline of dates associated with this work, including creation date, known purchase/ownership dates, dates of publications, and dates of exhibitions. 
 
+
+ex:<br>
+|-------|-------|------------|-------------|-----|  
+1888     1900    1920         1939         1960 1965    1980              2016  
+Made    Exhib   Pub          Auction      Pub  Exhib              Purchase
 
 
  
