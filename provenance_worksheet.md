@@ -1,44 +1,69 @@
-##Provenance Worksheet
+#Provenance Worksheet
+
+###The Work
+**1) Record any provenance already associated with the work**
+<br><br> 
 
 
-1) When was the work created?
+2) When was the work created?
 <br><br> 
 
 
 
-2) Who created the work? 
+3) Who created the work?<br>
+3a) Where were they known to be working at the time of creation (see 1)
+<br><br>
+4) What are the work's dimensions?<br>
+H:<br>
+W:<br>
+D:<br>
+Circumferance:<br>
+Diameter:
+
+Framed Dimensions<br>
+H:<br>
+W:<br>
+D:<br>
+<br><br>
+
+5) Record text from any labels/markings on verso (attach photographs):
 
 
-Where were they known to be working at the time of creation (see 1)
-<br><br><br>
-3) Who did you purchase this from? 
+================================
 
-Where did the purchase take place (_city, state, country_)?
+###Purchase History
 
+1) Who did you purchase this from? 
 
-Did you purchase it from an estate? If yes, when did the previous owner die?
+2) Where did the purchase take place (_city, state, country_)?
 
-Did you use an agent for this purchase? If yes, list:
+3) Did you purchase it from an estate? <br>
+3a) If yes, when did the previous owner die?<br>
+3b) Did you use an agent for this purchase? If yes, list:
+
 
 
 <br><br>
-3a) Did you purchase this work at auction? 
+4) Did you purchase this work at auction?<br> 
+4a) If yes, which auction? <br>
+4b) What was the date of the sale?<br> 
+4c) What was the lot number?<br>
 
-If yes, which auction house? 
-
-What was the date of the sale? 
-
-What was the lot number?
-
-Was there additional provenance information in the catalogue? List:<br><br>
+4d) Was there additional provenance information in the catalogue? List:<br><br>
 
 
-Did you use an agent for this purchase? If yes, list:
+4e) Did you use an agent for this purchase? If yes, list:
 <br><br>
 
 
 
-3b) Has this work been in any publications? List:
+================================
+###Documentation History
+1)
+
+2) Has this work been in any publications? List:
+
+
 
 
  
