@@ -211,9 +211,9 @@ NOTES:
 ---
 
 #_*Resources*_
-* Getty Provenance Index `http://www.getty.edu/research/tools/provenance/search.html`
-* Getty Library `http://www.getty.edu/research/library/`
-* Met Museum Watson Library `https://library.metmuseum.org/`
+* Getty Provenance Index `getty.edu/research/tools/provenance/search.html`
+* Getty Library `getty.edu/research/library/`
+* Met Museum Watson Library `library.metmuseum.org/`
 
 ---
 #_*Help, I'm stuck!*_
