@@ -204,5 +204,7 @@ NOTES:
 #_*Resources*_
 * Internet Archive `archive.org`
 * HathiTrust `hathitrust.org`
-* Gallica (Biblothe)
+* Gallica (Biblothèque National de France) `gallica.bnf.fr`
+* Google Books
+* 
 
