@@ -197,7 +197,7 @@ NOTES:
 * Known events
 * Publications
 * Public records (wills, estates, divorce decrees)
-* Check your languages!
+* Switch languages!
 
 ---
 
@@ -205,6 +205,18 @@ NOTES:
 * Internet Archive `archive.org`
 * HathiTrust `hathitrust.org`
 * Gallica (Biblothèque National de France) `gallica.bnf.fr`
-* Google Books
-* 
+* Google Books `books.google.com`
+* Frick Art Reference library `frick.org/research/library`
+
+---
+
+#_*Resources*_
+* Getty Provenance Index `http://www.getty.edu/research/tools/provenance/search.html`
+* Getty Library `http://www.getty.edu/research/library/`
+* Met Museum Watson Library `https://library.metmuseum.org/`
+
+---
+#_*Help, I'm stuck!*_
+ 
+
 
