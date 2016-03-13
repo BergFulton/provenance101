@@ -147,7 +147,20 @@ NOTES:
 
 ---
 #_*Unlawful Appropriation*_
+* Created before 1946
+* Acquired after 1932
+* Underwent a change of ownership between 1932 and 1946
+* Were, or could reasonably be thought to have been in continental Europe between 1932 and 1946. 
+* Emphasis on European paintings and Judaica
+
+* `http://aam-us.org/resources/ethics-standards-and-best-practices/collections-stewardship/objects-during-the-nazi-era`
 
 
+---
+#_*Unlawful Appropriation*_
+* Identify & distinguish works with possible Nazi provenance
+* Publish list of items on NEPIP.org and/or own site
+* Negotiate in good faith
+* Restitute 
 
 ---
