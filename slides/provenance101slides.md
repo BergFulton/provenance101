@@ -164,3 +164,45 @@ NOTES:
 * Restitute 
 
 ---
+
+#[fit]_**How?**_
+
+---
+
+#_*Start with the object*_
+* Does it have distinguishing marks/features?
+* Are there labels- check the back!
+* Measure it
+* Dirt can tell you a lot...
+
+---
+
+#_*Start with what you know.*_
+* You likely have your first record- your own purchase!
+* Object (Curatorial) file
+* Purchase report
+* Donor file
+* Meeting minutes
+* Correspondence
+
+---
+#[fit]_**Google**_ 
+#[fit]_**it.**_
+##No. Really. 
+
+---
+
+#_*Search Strategies*_
+* Known associates
+* Known events
+* Publications
+* Public records (wills, estates, divorce decrees)
+* Check your languages!
+
+---
+
+#_*Resources*_
+* Internet Archive `archive.org`
+* HathiTrust `hathitrust.org`
+* Gallica (Biblothe)
+
