@@ -91,7 +91,7 @@ Acquisition method FirstName Lastname [Birth Year-Death Year], City, State, Date
 
 ---
 
-#_*Special cases*_
+#_*The Short Version Con't*_
 1) Use `.` or `;` ?
 `Use period if it is uncertain or unknown if the transfer between two parties was direct.` 
 `Use semicolon if the transfer was known to be direct.`
@@ -129,11 +129,22 @@ NOTES:
 ```
 
 ---
+#_*Dealing with Uncertainty*_
+* Err on the side of *_including_* information.
+* When an entire record is uncertain, begin with *_`Possibly`_*.
+ `Possibly purchased by Walter Mungo Fulton [2009], 2014.`
+* If part of a record is uncertain, use *_`?`_* following the uncertain data. 
+`Purchased by Walter Fulton? [2009], January 2014.`
+`Purchased by Walter Fulton [2009?], January 2014?.`
+
+---
 
 #_*Footnotes are your friend*_
-* Footnotes provide context for a provenance entry. 
-* Use footnotes to enable others to reconstruct your research.
-* Cite books, archives, files, and other documentation.  
+* Provide context for a provenance entry. 
+* Can help explain concerns about data uncertainty.
+* Enable others to reconstruct your research.
+* Cite books, archives, files, and other documentation. 
+* Provide citations in original language, where possible.  
 
 ---
 #[fit]_**Why?**_
@@ -142,8 +153,8 @@ NOTES:
 #_*Provenance is Useful*_
 * Proof of authenticity.
 * Provides historical context for the work.
-* Proves legal ownership 
-* Issues of Unlawful appropriation (Nazi Era Provenance)
+* Proves legal ownership. 
+* Issues of unlawful appropriation (Nazi Era Provenance).
 
 ---
 #_*Unlawful Appropriation*_
@@ -173,7 +184,6 @@ NOTES:
 * Does it have distinguishing marks/features?
 * Are there labels- check the back!
 * Measure it
-* Dirt can tell you a lot...
 
 ---
 
@@ -193,10 +203,11 @@ NOTES:
 ---
 
 #_*Search Strategies*_
-* Known associates
-* Known events
-* Publications
-* Public records (wills, estates, divorce decrees)
+* Everything leaves a paper trail.
+* Known associates.
+* Known events.
+* Publications.
+* Public records (wills, estates, divorce decrees).
 * Switch languages!
 
 ---
