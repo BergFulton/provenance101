@@ -6,7 +6,14 @@ autoscale: true
 
 #_*Housekeeping*_
 
-(Breakdown timeline here)
+* Questions always welcome.
+* What we're going to cover:
+ 	* What, Why, How of Provenance
+* What I hope to leave you with:
+    * Understanding of how to *_read_* provenance.
+    * Understanding of how to *_write_* provenance.
+    * Basic research *_skills_*.
+
 
 ---
 
