@@ -212,6 +212,13 @@ NOTES:
 
 ---
 
+#_*Help, I'm stuck!*_
+* How would you approach a "dead end"?
+* Is it OK to leave provenance unfinished?
+* What strategies can we use to find research avenues?
+* Provenance worksheet 
+
+---
 #_*Resources*_
 * Internet Archive `archive.org`
 * HathiTrust `hathitrust.org`
@@ -227,10 +234,5 @@ NOTES:
 * Met Museum Watson Library `library.metmuseum.org/`
 
 ---
-#_*Help, I'm stuck!*_
-* How would you approach a "dead end"?
-* Is it OK to leave provenance unfinished?
-* What strategies can we use to find research avenues?
-* Provenance worksheet 
 
 
