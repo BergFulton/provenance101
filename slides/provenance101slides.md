@@ -7,12 +7,11 @@ autoscale: true
 #_*Housekeeping*_
 
 * Questions always welcome.
-* What we're going to cover:
- 	* What, Why, How of Provenance
+* Cover what/why/how of provenance.
 * What I hope to leave you with:
-    * Understanding of how to *_read_* provenance.
-    * Understanding of how to *_write_* provenance.
-    * Basic research *_skills_*.
+Understanding of how to *_read_* provenance.
+Understanding of how to *_write_* provenance.
+Basic research *_skills_*.
 
 
 ---
@@ -242,4 +241,12 @@ NOTES:
 
 ---
 
+#[fit]_**Questions/Comments**_
+
+##Let's talk  
+@BergFulton
+github.com/bergfulton
+www.traceybergfulton.com
+traceybergfulton@gmail.com
+(+001)412.443.2654
 
