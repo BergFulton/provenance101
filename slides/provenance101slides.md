@@ -3,6 +3,14 @@ autoscale: true
 ###Tracey Berg-Fulton
 
 ---
+#_*Who am I?*_
+* Provenance researcher for two years.
+* Working on turning provenance into linked open data.
+* Registrar by day, web developer by night.
+* Owner of a big hairy dog.
+* 11 time marathoner <sub>(apparently I never learn)</sub>
+
+---
 
 #_*Housekeeping*_
 
