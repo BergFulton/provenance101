@@ -3,12 +3,12 @@ autoscale: true
 ###Tracey Berg-Fulton
 
 ---
-![fit right](/Users/traceyberg-fulton/Sites/provenance101/slides/img/tracey_helmet.jpg)
+![fit right](/Users/traceyberg-fulton/Sites/provenance101/slides/img/tracey_helmet.jpg) 
 #_*Who am I?*_
 * Provenance researcher for two years.
 * Working on turning provenance into linked open data.
-* Web chair, RC-AAM
-* Pittsburgher
+* Web chair, RC-AAM.
+* Pittsburgher.
 
 ---
 
