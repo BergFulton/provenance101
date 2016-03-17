@@ -29,4 +29,10 @@ Getty Provenance Index [www.getty.edu/research/tools/provenance/search.html](get
 Getty Library [www.getty.edu/research/library/](getty.edu/research/library/)  
 Met Museum Watson Library [www.library.metmuseum.org](library.metmuseum.org)
 
+#Contact
+traceybergfulton@gmail.com  
+GitHub: [github.com/bergfulton](github.com/bergfulton)    
+Twitter: [www.twitter.com/bergfulton](www.twitter.com/bergfulton)  
+Ph. (+001) 412-443-2654
+
 
