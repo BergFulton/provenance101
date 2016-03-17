@@ -3,7 +3,7 @@
 #####By Tracey Berg-Fulton
 
 ##Hello! 
-In this repo, you'll find some supplementary materials related to the panel interview and presentation for the position of Trainer on 18 March, 2016 at 5PM. 
+In this repo, you'll find some supplementary materials related to the panel interview and presentation for the position of Trainer on 18 March, 2016 at 5PM EST. 
 
 ##What is in this repo? 
 In this repo, you'll find:  
