@@ -15,6 +15,8 @@ autoscale: true
 #_*Housekeeping*_
 
 * Questions always welcome.
+* Extra resources in repo:  
+`github.com/bergfulton/provenance101`
 * Cover what/why/how of provenance.
 * What I hope to leave you with:
 Understanding of how to *_read_* provenance.
