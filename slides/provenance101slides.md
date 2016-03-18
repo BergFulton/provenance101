@@ -31,7 +31,7 @@ Basic research *_skills_*.
 # [fit]THIS MAN? 
 
 
-![right](/Users/traceyberg-fulton/Sites/provenance101/slides/img/Perugino.jpg)
+![fit right](/Users/traceyberg-fulton/Sites/provenance101/slides/img/Perugino.jpg)
 
 <br><br><br>
 <sub><sub>Pietro Perugino, *St. Augustine with Members of the Confraternity of Perugia*, c. 1500. Carnegie Museum of Art, Acquired through the generosity of Mrs. Alan M. Scaife.</sub></sub>
